@@ -36,7 +36,6 @@
   list-style-type: none;
   padding: 0;
   margin: 8px 0 0;
-  
 }
 
 .nav__link {
@@ -47,6 +46,7 @@
 
 html {
   scroll-behavior: smooth;
+}
 
 .header__content {
   display: flex;
